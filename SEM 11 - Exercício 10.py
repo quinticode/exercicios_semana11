@@ -83,7 +83,6 @@ while jogoAtivo:
     if posicaoOcupada == [1] * 9 and vitoria == False:
         print("\nDeu velha!")
         jogoAtivo = False
-        vitoria = True
 
     RodadaJogador2 = True
 
